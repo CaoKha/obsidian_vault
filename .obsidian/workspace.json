@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "ecb99eec981d4552",
+    "type": "split",
+    "children": [
+      {
+        "id": "2eeaa3104f320082",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ab7c8253af999c0",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "esp32/Kanban Board.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c46cc2fa61be425b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a76d097828c0183",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "912352c60b6b4627",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fd13f214d438459",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "565056db635ee3d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d1f155cf2573e98",
+    "type": "split",
+    "children": [
+      {
+        "id": "84e1b02d393fcb78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3073760f41c9feb4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "esp32/Kanban Board.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de1ec24385384620",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "esp32/Kanban Board.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e087eaeb13529593",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "56073a24a42dcfa7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "esp32/Kanban Board.md"
+              }
+            }
+          },
+          {
+            "id": "381f5a3dd1511218",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "cmdr:Obsidian Git: Pull": false
+    }
+  },
+  "active": "4ab7c8253af999c0",
+  "lastOpenFiles": [
+    "esp32/Kanban Board.md",
+    "2023-12-02.md",
+    "2023-W48.md",
+    "2023-11-29.md",
+    "esp32/Excalidraw/Notes_1.md"
+  ]
+}
