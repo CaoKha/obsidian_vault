@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dcde22fa74dc715b",
+        "id": "fddd3652892eb96f",
         "type": "tabs",
         "children": [
           {
-            "id": "0d1b07e94148dbdf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "73a5afb74ae135bd",
+            "id": "6a0eda4ac954300e",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -24,19 +16,8 @@
                 "file": "Kanban Board.md"
               }
             }
-          },
-          {
-            "id": "69c3b6ac13dee884",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Notes_1.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Notes_1.md",
+                "file": "Kanban Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Notes_1.md",
+                "file": "Kanban Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Notes_1.md"
+                "file": "Kanban Board.md"
               }
             }
           }
@@ -161,12 +142,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "69c3b6ac13dee884",
+  "active": "6a0eda4ac954300e",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Kanban Board.md",
     "Excalidraw/Notes_1.md",
     "Test.md",
