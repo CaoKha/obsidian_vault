@@ -10,9 +10,9 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] # Learn poem-openapi<br><br>- [ ] Architect folder structure
 - [ ] # Demo Obsidian<br><br>- [ ] Pull from git<br>- [ ] Commit changes<br>- [ ] Fuzzy finding<br>- [ ] Plugins
 - [ ] # Demo Shuttle.rs<br>- [ ] get request<br>- [ ] post request<br>- [ ] database<br>- [ ] websocket
+- [ ] # Testing Qemu<br>## Description<br>- [x] Simulating ESP32<br>- [ ] Simulating ESP32-C3
 
 
 ## In Progress
