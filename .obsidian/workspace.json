@@ -11,9 +11,9 @@
             "id": "4ab7c8253af999c0",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "excalidraw",
               "state": {
-                "file": "esp32/Kanban Board.md"
+                "file": "esp32/Excalidraw/Notes_1.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "esp32/Kanban Board.md",
+                "file": "esp32/Excalidraw/Notes_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "esp32/Kanban Board.md",
+                "file": "esp32/Excalidraw/Notes_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "esp32/Kanban Board.md"
+                "file": "esp32/Excalidraw/Notes_1.md"
               }
             }
           },
@@ -151,13 +151,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "cmdr:Obsidian Git: Pull": false
+      "cmdr:Obsidian Git: Pull": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "4ab7c8253af999c0",
   "lastOpenFiles": [
-    "esp32/Kanban Board.md",
     "2023-12-02.md",
+    "esp32/Kanban Board.md",
     "2023-W48.md",
     "2023-11-29.md",
     "esp32/Excalidraw/Notes_1.md"
