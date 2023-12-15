@@ -4,20 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "fddd3652892eb96f",
+        "id": "84e634b14e2bac20",
         "type": "tabs",
         "children": [
           {
-            "id": "6a0eda4ac954300e",
+            "id": "cc9dbf26c8514c71",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "excalidraw",
               "state": {
-                "file": "Kanban Board.md"
+                "file": "Excalidraw/Architecture.md"
+              }
+            }
+          },
+          {
+            "id": "995c487b6dd69ddc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/LinkList.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 210.5
   },
   "right": {
     "id": "64c6766520e3bef2",
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban Board.md",
+                "file": "Excalidraw/LinkList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban Board.md",
+                "file": "Excalidraw/LinkList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +124,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -123,15 +134,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban Board.md"
+                "file": "Excalidraw/LinkList.md"
               }
             }
+          },
+          {
+            "id": "3076dcf3bdce77f6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 318.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -142,25 +162,48 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6a0eda4ac954300e",
+  "active": "bef0ea566800477e",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Excalidraw/Architecture.md",
+    "Excalidraw/LinkList.md",
+    "mermaid/Pellenc_790051083_148.md",
+    "mermaid/Pellenc_790051109_160.md",
+    "mermaid/nan_790051496_45.md",
+    "mermaid/HardiEvrard_A46113X-A_189.md",
+    "mermaid/HardiEvrard_A46111V-A_161.md",
+    "mermaid/HardiEvrard_790051992_24.md",
+    "mermaid/Hardi_791001724_259.md",
+    "mermaid/AGRIO_791002620_80.md",
+    "mermaid/AGCO_790051050_20.md",
+    "Slide.md",
+    "Slides/Hello.md",
     "Kanban Board.md",
-    "Excalidraw/Notes_1.md",
-    "Test.md",
+    "Slides",
+    "mermaid/SAF_791001570_83.md",
+    "mermaid/PH_790051712_2.md",
+    "mermaid",
+    "mermaid/all_A51454D-A_4.md",
+    "mermaid/all_A51453C-A_3.md",
+    "mermaid/Airport2000_790051072_196.md",
+    "mermaid/AirMarrel_A48398G-A_33.md",
+    "mermaid/AGCO_790051427_152.md",
+    "mermaid/Agco_790051253_153.md",
+    "mermaid/AGCO_790051229_156.md",
+    "mermaid/Boss-Jungheinrich_790051005_317.md",
+    "mermaid/Générique_791000332_31.md",
+    "mermaid/Grégoire_791001226_282.md",
+    "Untitled.canvas",
+    "New folder",
     "Excalidraw",
     "Mermaid/SDPremier_A44623D-A_19.mmd",
     "Mermaid/SDPremier_A43904W-B_53.mmd",
     "Mermaid/SDPremier_A43904W-A_52.mmd",
     "Mermaid/SDPremier_A43484Q-A_188.mmd",
     "Mermaid/SDPremier_790054625_57.mmd",
-    "Mermaid/SDPremier_790054212_51.mmd",
-    "Mermaid/SDPremier_790054053_147.mmd",
-    "Mermaid/SDPremier_790051932_138.mmd",
-    "Mermaid/SDPremier_790051784_305.mmd",
-    "Untitled.md"
+    "Mermaid/SDPremier_790054212_51.mmd"
   ]
 }
